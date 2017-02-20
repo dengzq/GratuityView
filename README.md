@@ -9,6 +9,7 @@
 
 </br>
 我们实现的效果图:
+
 ![色彩效果.gif](http://upload-images.jianshu.io/upload_images/2355808-e9bf0ac12846db1b.gif?imageMogr2/auto-orient/strip)
 
 ##使用
