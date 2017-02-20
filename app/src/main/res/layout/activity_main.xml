@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/activity_main"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dengzq.gratuityview.MainActivity">
+
+    <com.dengzq.gratuityview.GratuityView.GratuityView
+        app:animationDuration="800"
+        app:baseTextColor="#8E388E"
+        app:childTextColor="#FFFFFF"
+        app:childgroundColor="#B4EEB4"
+        android:id="@+id/gratuity_view"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:visibility="visible"/>
+</RelativeLayout>

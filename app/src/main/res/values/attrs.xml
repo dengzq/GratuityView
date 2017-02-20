@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--虎扑体育打赏view-->
+    <declare-styleable name="GratuityView">
+        <attr name="baseTextSize" format="integer|reference"/>
+        <attr name="baseTextColor" format="integer|color|reference"/>
+        <attr name="basegroundColor" format="integer|color|reference"/>
+        <attr name="childTextSize" format="integer|reference"/>
+        <attr name="childTextColor" format="integer|color|reference"/>
+        <attr name="childgroundColor" format="integer|color|reference"/>
+        <attr name="animationDuration" format="integer"/>
+        <attr name="animationBackground" format="integer|color|reference"/>
+        <attr name="childCount" format="integer"/>
+        <attr name="autoCollapse" format="boolean"/>
+        <attr name="collapseDelay" format="integer"/>
+    </declare-styleable>
+</resources>
