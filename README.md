@@ -10,7 +10,7 @@
 </br>
 我们实现的效果图:
 
-![色彩效果.gif](http://upload-images.jianshu.io/upload_images/2355808-e9bf0ac12846db1b.gif?imageMogr2/auto-orient/strip)
+![色彩效果.gif](C:\Users\loovee1\Desktop\20170220071755-7c011ad592.[gif-2-mp4.com].gif)
 
 ##使用
 直接在xml文件内引用
