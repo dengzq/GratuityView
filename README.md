@@ -10,7 +10,7 @@
 </br>
 我们实现的效果图:
 
-![色彩效果.gif](C:\Users\loovee1\Desktop\20170220071755-7c011ad592.[gif-2-mp4.com].gif)
+![色彩效果.gif](https://github.com/dengzq/GratuityView/blob/master/image/image.gif)
 
 ##使用
 直接在xml文件内引用
