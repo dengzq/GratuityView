@@ -55,3 +55,7 @@ gview.setOnItemClickListener(new onItemClickListener())   //设置小圆点击�
 ```
 ##end~
 喜欢的可以赏个star哦~
+
+
+##我的简书
+http://www.jianshu.com/p/b4e2fb36dc18
